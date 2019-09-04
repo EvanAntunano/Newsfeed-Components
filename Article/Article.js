@@ -163,7 +163,7 @@ function articleCreation(title, date, para1, para2, para3){
   para1Maker.textContent = para1;
   para2Maker.textContent = para2;
   para3Maker.textContent = para3;
-  expandButtonMaker.textContent = 'expand';
+  expandButtonMaker.textContent = '\u2694';
 
 
   //event listener for expand button
